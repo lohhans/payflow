@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040428749856",
+    "project_id": "payflow-lohhans",
+    "storage_bucket": "payflow-lohhans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040428749856:android:6373aab5df237017f09845",
+        "android_client_info": {
+          "package_name": "com.lohhans.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040428749856-63g1riaguvfgcdm5tmln1pun2c2t8vjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lohhans.payflow",
+            "certificate_hash": "eebf789c5704f77b68e3053d1f8c2cd5c8ff6b7a"
+          }
+        },
+        {
+          "client_id": "1040428749856-mkq5prnaijm413vh932lmrnila32ihj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIaUhpBwLpIwgfBiVRpMY2faWm3lu2mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040428749856-mkq5prnaijm413vh932lmrnila32ihj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
